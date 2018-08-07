@@ -1,0 +1,42 @@
+body {
+	background: url("https://wallpaperclicker.com/storage/wallpaper/Simple-Dark-Blue-Background-75005504.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	align-content: center;
+}
+
+h1 {
+	color: #FFFFFF;
+}
+
+input {
+	margin: 5px;
+}
+
+.text {
+	color: #FFFFFF;
+}
+
+#loginWrapper {
+	margin-bottom: : 20;
+}
+
+.accountItems {
+	margin: 0;
+	color: #FFFFFF;
+	font-size: 13px;
+	padding-left: 5px;
+}
+
+#noAccount {
+	margin: 0;
+}
+
+#create {
+	color: #0000EE;
+	margin: 0;
+}
+
+#pword {
+	margin-bottom: 25px;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nodeuserlogin",
+  "version": "1.0.0",
+  "description": "Simple project for simulating user login capability",
+  "main": "app.js",
+  "author": "Daniel Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "nodemon": "^1.18.3",
+    "socket.io": "^2.1.1"
+  }
+}
