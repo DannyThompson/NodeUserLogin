@@ -15,8 +15,6 @@ app.use('/registration', register);
 app.use('/stylesheets', express.static(__dirname + '/stylesheets'));
 app.use(express.static('public'));
 
-
-
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
 
